@@ -1,0 +1,13 @@
+/* Nombre de la web: Edalan band
+Web URL:
+Descripción: web corporativa para Edalan
+Autor: Alicia Ubeda Mora | alicia.ubeda.mora@gmail.com | 680970196
+Versión: 1.0*/
+
+/*fondo base*/
+.background {
+	background-color: #1D1D1B;
+	background-image: url("img/Edalan-diseño-web.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
